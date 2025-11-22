@@ -15,7 +15,7 @@ import askmafirstImg from "./assets/askmafirst.png";
 
 import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaNode } from "react-icons/fa";
 import { 
-  SiExpress, SiDocker, SiFigma, SiGithub, 
+  SiExpress, SiFigma, SiGithub, 
   SiFirebase, SiFlutter, SiDart, SiMysql,
 } from "react-icons/si";
 
