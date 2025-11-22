@@ -19,7 +19,7 @@ export default function HeroSection({ sectionsRef }) {
         { icon: Facebook, href: "https://www.facebook.com/Kinzokubat47", label: "Facebook" },
         { icon: Github, href: "https://github.com/Pannita-663040658-3", label: "GitHub" },
         { icon: Linkedin, href: "https://www.linkedin.com/in/pannita-pananan/", label: "LinkedIn" },
-        { icon: Mail, href: "https://myaccount.google.com/?hl=th&utm_source=OGB&utm_medium=act&gar=WzJd&pli=1", label: "Email" },
+        { icon: Mail, href: "mailto:pannita.p@kkumail.com", label: "Email" },
     ];
 
     const floatingIcons = [
